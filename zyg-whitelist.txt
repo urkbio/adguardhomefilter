@@ -17,3 +17,4 @@
 @@||www.hisense.com^$important
 @@||yandex.ru^$important
 @@||metaso.cn^$important
+@@||z-lib.id^$important
