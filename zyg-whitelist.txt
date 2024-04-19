@@ -18,3 +18,4 @@
 @@||yandex.ru^$important
 @@||metaso.cn^$important
 @@||z-lib.id^$important
+@@||z-lib.io^
