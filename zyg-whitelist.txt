@@ -19,3 +19,10 @@
 @@||metaso.cn^$important
 @@||z-lib.id^$important
 @@||z-lib.io^
+@@||cnblogs.com^$important
+@@||youtube.com^
+@@||googlevideo.com^
+@@||googleapis.com^
+@@||translate.google.com^
+@@||browser.events.data.microsoft.com^
+@@||login.live.com^
