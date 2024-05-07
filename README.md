@@ -1,5 +1,6 @@
 # adguardhomefilter
 personal filters for AdGuardHome
+_自用，手动添加_
 
 ### whitelist link
 https://raw.githubusercontent.com/urkbio/adguardhomefilter/main/whitelist.txt
