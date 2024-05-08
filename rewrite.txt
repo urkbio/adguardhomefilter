@@ -1,0 +1,5 @@
+#示例
+#||domain.name^$dnsrewrite=NOERROR;A;IP-Address
+
+||*.laiqukankan.com^$dnsrewrite=42.186.241.12
+||*.nstool.zhuanzfx.com^$dnsrewrite=42.186.120.200
