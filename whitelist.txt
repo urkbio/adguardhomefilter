@@ -13,7 +13,6 @@
 @@||skyapi.live.net^$important
 @@||clients.config.office.net^$important
 @@||sdk.open.talk.gepush.com^$important
-@@||www.hisense.com^$client='116.204.0.0'
 @@||www.hisense.com^$important
 @@||yandex.ru^$important
 @@||metaso.cn^$important
