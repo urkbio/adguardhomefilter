@@ -26,3 +26,7 @@
 @@||browser.events.data.microsoft.com^
 @@||login.live.com^
 @@||gitee.com^
+@@||www.chiphell.com^$important
+#字节验证
+@@||verify.zijieapi.com^
+@@||*catpcha.byteimg.com^
