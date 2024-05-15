@@ -30,3 +30,4 @@
 #字节验证
 @@||verify.zijieapi.com^
 @@||*catpcha.byteimg.com^
+@@||allawntech.com^$important
