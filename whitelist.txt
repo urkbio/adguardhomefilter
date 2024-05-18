@@ -33,4 +33,5 @@
 
 @@||allawntech.com^$important
 @@||dns.icoa.cn^
-@@||statics.123pan.com^ #123盘网页
+#123盘网页
+@@||statics.123pan.com^ 
