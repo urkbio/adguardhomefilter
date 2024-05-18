@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/urkbio/adguardhomefilter/main/rewrite.txt
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/urkbio/adguardhomefilter/main/rewrite.txt
 
 ## 注：白名单已添加到此合并规则中，不用单独导入了。重写规则是自用的，就写了几条，用的比较少就没合并进去。
-<p><a href="https://github.com/urkbio/AdGuard-Rule">AdGuard-Rule</a></p>
+<p><a href="https://github.com/urkbio/AdGuard-Rule">AdGuard-Rule这是我合并的规则</a></p>
 
 ---
 
