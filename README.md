@@ -1,4 +1,4 @@
-# adguardhomefilter白名单
+## adguardhomefilter白名单
 personal filters for AdGuardHome
 _自用，手动添加_
 
@@ -8,12 +8,15 @@ https://raw.githubusercontent.com/urkbio/adguardhomefilter/main/whitelist.txt
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/urkbio/adguardhomefilter/main/whitelist.txt
 
 
-# rewrite DNS重写规则
+## rewrite DNS重写规则
 
 ### link
 https://raw.githubusercontent.com/urkbio/adguardhomefilter/main/rewrite.txt
 ### 国内加速
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/urkbio/adguardhomefilter/main/rewrite.txt
+
+## 注：白名单已添加到此合并规则中，不用单独导入了。重写规则是自用的，就写了几条，用的比较少就没合并进去。
+<p><a href="https://github.com/urkbio/AdGuard-Rule">AdGuard-Rule</a></p>
 
 ---
 
