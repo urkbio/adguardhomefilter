@@ -35,3 +35,5 @@
 @@||dns.icoa.cn^
 #123盘网页
 @@||statics.123pan.com^ 
+
+@@||www.game2.cn^
