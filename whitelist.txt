@@ -37,3 +37,6 @@
 @@||statics.123pan.com^ 
 
 @@||www.game2.cn^
+@@||passport.game2.cn^
+@@||g2.cn^
+@@||baidu.com^$important
