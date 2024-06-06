@@ -10,5 +10,5 @@
 ||api.pgncs.notion.so^$dnsrewrite=119.28.13.121
 ||exp.notion.so^$dnsrewrite=119.28.13.121
 #GitHub
-||github.com^$dnsrewrite=140.82.112.3
-||raw.githubusercontent.com^$dnsrewrite=185.199.108.133
+#||github.com^$dnsrewrite=140.82.112.3
+#||raw.githubusercontent.com^$dnsrewrite=185.199.108.133
