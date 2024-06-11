@@ -40,3 +40,4 @@
 @@||passport.game2.cn^
 @@||g2.cn^
 @@||baidu.com^$important
+@@||iwan-s.video.qq.com^important
