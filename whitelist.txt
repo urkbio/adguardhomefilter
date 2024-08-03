@@ -41,5 +41,3 @@
 @@||g2.cn^
 @@||baidu.com^$important
 @@||iwan-s.video.qq.com^important
-@@||aeventlog.beacon.qq.com^
-@@||email-link.adtidy.org^
