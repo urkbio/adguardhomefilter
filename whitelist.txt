@@ -46,3 +46,8 @@
 @@||clientlog3.music.163.com^$important
 @@||ac.dun.163yun.com^$important
 @@||ac.dun.163.com^$important
+#成人网站
+@@||www.cool18.com^$important
+@@||wap.cool18.com^$important
+#跳转知乎
+@@||oia.zhihu.com^$important
