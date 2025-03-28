@@ -51,3 +51,7 @@
 @@||wap.cool18.com^$important
 #跳转知乎
 @@||oia.zhihu.com^$important
+
+#广告平台
+@@||monetag.com^$important
+@@||ahrefs.com^$important
